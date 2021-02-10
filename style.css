@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+nav {
+  border: solid 5px crimson;
+  padding: 20px;
+  font-size: 1.5em;
+}
+
+.slider {
+  border: solid 5px crimson;
+  padding: 150px;
+}
+
+.news {
+  border: solid 5px crimson;
+  padding: 100px;
+}
+
+footer {
+  border: solid 5px crimson;
+  padding: 30px;
+}
